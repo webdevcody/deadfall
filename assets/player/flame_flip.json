@@ -1,0 +1,18 @@
+{
+ "cols": 8,
+ "rows": 8,
+ "frames": 64,
+ "fps": 10,
+ "cell": [
+  256,
+  320
+ ],
+ "window": [
+  224,
+  288
+ ],
+ "gutter": 16,
+ "encoding": "sqrt(luminance)",
+ "source": "https://commons.wikimedia.org/wiki/File:Fire.ogv",
+ "license": "Public domain (Cary Bass)"
+}

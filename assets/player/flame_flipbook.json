@@ -1,0 +1,12 @@
+{
+ "cols": 8,
+ "rows": 8,
+ "frames": 64,
+ "fps": 10,
+ "frameSize": [
+  160,
+  224
+ ],
+ "source": "https://commons.wikimedia.org/wiki/File:Fire.ogv",
+ "license": "Public domain (Cary Bass)"
+}

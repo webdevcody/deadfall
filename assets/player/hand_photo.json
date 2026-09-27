@@ -1,0 +1,20 @@
+{
+ "count": 15632,
+ "stride": 6,
+ "tint": {
+  "back": [
+   0.24459078907966614,
+   0.13901712000370026,
+   0.09098965674638748
+  ],
+  "palm": [
+   0.6349837779998779,
+   0.5634623169898987,
+   0.4891203045845032
+  ]
+ },
+ "sources": {
+  "back": "https://commons.wikimedia.org/wiki/File:%D0%9B%D0%B0%D0%B4%D0%BE%D0%BD%D1%8C_Hand.jpg (CC0, Nastika-0-0)",
+  "palm": "https://commons.wikimedia.org/wiki/File:Boys_palm_%E6%89%8B%E6%9D%BF%E5%BF%83_%E6%89%8B%E6%8E%8C.png (CC0, Jiajitan)"
+ }
+}

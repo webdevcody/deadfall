@@ -1,0 +1,98 @@
+{
+ "cols": 7,
+ "rows": 5,
+ "frames": 128,
+ "fps": 30.0,
+ "cell": [
+  552,
+  356
+ ],
+ "gutter": 4,
+ "size": [
+  3920,
+  1820
+ ],
+ "encode": {
+  "emin": 0.01,
+  "emax": 32.0
+ },
+ "flow": {
+  "cols": 16,
+  "rows": 4,
+  "cell": [
+   138,
+   89
+  ],
+  "max": 0.08,
+  "size": [
+   2208,
+   356
+  ]
+ },
+ "region": [
+  260,
+  110,
+  1380,
+  890
+ ],
+ "loopStart": 419,
+ "windows": {
+  "left": {
+   "u": [
+    0.02,
+    0.36
+   ],
+   "base": 0.851,
+   "top": 0.404
+  },
+  "centre": {
+   "u": [
+    0.3,
+    0.62
+   ],
+   "base": 0.646,
+   "top": 0.132
+  },
+  "rightCentre": {
+   "u": [
+    0.56,
+    0.8
+   ],
+   "base": 0.779,
+   "top": 0.284
+  },
+  "right": {
+   "u": [
+    0.76,
+    0.99
+   ],
+   "base": 0.896,
+   "top": 0.542
+  },
+  "tongue": {
+   "u": [
+    0.38,
+    0.52
+   ],
+   "base": 0.64,
+   "top": 0.124
+  }
+ },
+ "meanE": 0.20583726465702057,
+ "source": "https://commons.wikimedia.org/wiki/File:Fantastic-fireplace-fire-chimney-hearth-_background_-_texture_-_motion_graphics_-_free_video_library.webm",
+ "license": "CC BY 3.0 (free video library)",
+ "pile": {
+  "apex": [
+   0.4420289855072464,
+   0.6348314606741573
+  ],
+  "left": [
+   0.036231884057971016,
+   0.9831460674157303
+  ],
+  "right": [
+   1.0,
+   0.9719101123595506
+  ]
+ }
+}
